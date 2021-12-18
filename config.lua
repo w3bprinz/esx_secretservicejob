@@ -246,7 +246,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		agent = {
@@ -263,7 +265,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		special_agent = {
@@ -280,7 +284,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		senior_special_agent = {
@@ -297,7 +303,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		supervisory_special_agent = {
@@ -314,7 +322,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		senior_supervisory_special_agent = {
@@ -331,7 +341,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		assistant_special_agent_in_charge = {
@@ -348,7 +360,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		special_agent_in_charge = {
@@ -365,7 +379,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		},
 
 		boss = {
@@ -382,7 +398,9 @@ Config.AuthorizedVehicles = {
 			{ model = 'usssvan', price = 1},
 			{ model = 'usssvan2', price = 1},
 			{ model = 'camarobb', price = 1},
-			{ model = 'camarorb', price = 1}
+			{ model = 'camarorb', price = 1},
+			{ model = 'onebeast', price = 1 },
+			{ model = 'sspres', price = 1 }
 		}
 	},
 
